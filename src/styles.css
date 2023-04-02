@@ -1,0 +1,9 @@
+.cards-div{
+    display: flex;
+}
+
+.main-cards-div{
+    display: grid;
+    place-items: center;
+    align-items: center;
+}
